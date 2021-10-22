@@ -1,0 +1,24 @@
+h1{
+    background-color: black;
+    color:bisque;
+    text-align: center;
+}
+
+h4{
+    border-bottom: 4px solid black;
+    background-color:red;
+    color:white;
+    text-align: center;
+    margin-left: 500px;
+    height: 20px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+div{
+    font-family: Arial;
+    color:blue;
+    font-size:20px;
+    text-align: end;
+    text-decoration: none;
+}
